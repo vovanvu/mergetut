@@ -1,7 +1,1 @@
-hello vietnam hochiminh tanbinhq
-<<<<<<< HEAD
-hello second 123123
-=======
-hello haha
-hello third
->>>>>>> 09ee300e22ee4254472b979bb9084785588242d4
+hello world
