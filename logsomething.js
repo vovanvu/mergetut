@@ -2,4 +2,4 @@ function logHello(){
     console.log("Hello world");
 }
 logHello1();
-console.log("aaahdddda11111");
+console.log("1");
