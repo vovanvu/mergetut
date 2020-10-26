@@ -5,5 +5,4 @@ logHello1();
 console.log("aaaaabbbbcccc");
 console.log("dddddd");
 console.log("111111");
-//add some comments
-//new here!!!
+//1
