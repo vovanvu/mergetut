@@ -1,4 +1,7 @@
 function logHello(){
     console.log("Hello world");
 }
-logHello();
+function logHello1(){
+    console.log("Hello");
+}
+logHello1();
