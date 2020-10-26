@@ -3,3 +3,4 @@ function logHello(){
 }
 logHello1();
 console.log("aaaaabbbbcccc");
+console.log("dddddd");
