@@ -3,4 +3,5 @@ function logHello(){
 }
 logHello1();
 console.log("aaaaabbbbcccc");
-console.log("master ne");
+console.log("dddddd");
+console.log("111111");
